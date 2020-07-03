@@ -1,0 +1,16 @@
+{
+  "name": "get_firebase_jwt",
+  "version": "1.0.0",
+  "description": "pegar um jwt do firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "firebase": "^7.15.5",
+    "inquirer": "^7.3.0"
+  }
+}
